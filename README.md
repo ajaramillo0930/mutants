@@ -14,7 +14,7 @@ Microservicio encargado de detectar si humano es mutante basándose en su secuen
 Mutants es una aplicación de [Spring Boot](https://spring.io/guides/gs/spring-boot) creada con [Maven](https://spring.io/guides/gs/maven/). Puede crear un archivo jar y ejecutarlo desde la línea de comando:
 
 ```
-git clone https://github.com/TODO
+git clone https://github.com/ajaramillo0930/mutants.git
 cd mutants
 ./mvn package
 java -jar target/*.jar
@@ -36,7 +36,7 @@ A continuación, puede acceder a mutants aquí: http://localhost:8080/mercadolib
 ## Pasos:
 1) En la línea de comando
   ```
-    git clone https://github.com/TODO
+    git clone https://github.com/ajaramillo0930/mutants.git
  ```
 2) Dentro de IntelliJ IDEA
 
